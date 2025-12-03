@@ -11,4 +11,4 @@
 - Analysis of Phenomenal Killer Events 现象级杀手事件分析 
 - Crowdfunding Killer Platform 众筹杀手平台
 - Public welfare actions 公益行动
-- 无辜人员鉴定及保护  Identification and protection of innocent people
+- Identification and protection of innocent people  无辜人员鉴定及保护
