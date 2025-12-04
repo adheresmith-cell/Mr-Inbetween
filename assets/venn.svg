@@ -15,7 +15,7 @@
   <circle class="c3" cx="270" cy="80"  r="100"/>
 
   <!-- labels for sets -->
-  <text x="120" y="60" class="lbl">A</text>
-  <text x="420" y="60" class="lbl">B</text>
-  <text x="270" y="20" class="lbl">C</text>
+  <text x="120" y="60" class="lbl">需求者</text>
+  <text x="420" y="60" class="lbl">服务交付者</text>
+  <text x="270" y="20" class="lbl">客户</text>
 </svg>
