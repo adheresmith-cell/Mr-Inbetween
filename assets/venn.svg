@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="300" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three-set Venn diagram">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .c1 { fill: #ff7f7f; fill-opacity: 0.55; stroke: #b24b4b; stroke-width:1 }
+      .c2 { fill: #7fbfff; fill-opacity: 0.55; stroke: #3b79b2; stroke-width:1 }
+      .c3 { fill: #7fffbf; fill-opacity: 0.55; stroke: #3b9b6b; stroke-width:1 }
+      .lbl { font-family: Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; fill:#222 }
+    ]]></style>
+  </defs>
+
+  <!-- circles -->
+  <circle class="c1" cx="200" cy="140" r="100"/>
+  <circle class="c2" cx="340" cy="140" r="100"/>
+  <circle class="c3" cx="270" cy="80"  r="100"/>
+
+  <!-- labels for sets -->
+  <text x="120" y="60" class="lbl">A</text>
+  <text x="420" y="60" class="lbl">B</text>
+  <text x="270" y="20" class="lbl">C</text>
+</svg>
