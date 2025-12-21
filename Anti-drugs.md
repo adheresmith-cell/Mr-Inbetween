@@ -26,4 +26,4 @@
 [5]: https://www.sciencedirect.com/science/article/abs/pii/S2468202021000607?utm_source=chatgpt.com "Neurotoxicity of psychoactive substances: A mechanistic ..."
 
 ## NEWS
-- ['Red Notice' Hwang Hana, Under Drug Investigation, Reportedly Spotted in Cambodia]([https://www.binance.com/en/square/post/31395177149553](https://cm.asiae.co.kr/en/article/2025101519174430534))
+- ['Red Notice' Hwang Hana, Under Drug Investigation, Reportedly Spotted in Cambodia](https://cm.asiae.co.kr/en/article/2025101519174430534)
