@@ -1,5 +1,5 @@
 # Priority 
-- Professionalization scheme
+- 专业化方案 Professionalization scheme
 
 # MORE
-- surjection function mechanism
+- 满射函数机制 surjection function mechanism
